@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-v14",
+  "name": "opendiscord-core",
   "version": "1.0.0",
   "description": "Advanced Discord Bot with TypeScript",
   "main": "dist/index.js",
